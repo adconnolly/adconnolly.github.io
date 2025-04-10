@@ -13,10 +13,10 @@ profile:
     <p>520 West 120th Strreet</p>
     <p>New York, NY 10027</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 social: false # includes social icons at the bottom of the page
-announcements: false # enabled: scrollable: limit:
-latest_posts: false # enabled: scrollable: limit: 
+selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 Alex studies atmospheric boundary layer processes and turbulence primarily using computational methods such as machine learning and simulation. He is currently focusing on applications of machine learning to the stably stratified atmospheric boundary layer. Other problems that Alex has recently investigated include topographic effects on wind flow and generation of turbulence at the inflow boundary of fluid dynamics simulations.
