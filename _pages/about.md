@@ -15,10 +15,8 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-
-announcements: false # enabled: true # includes a list of news items # scrollable: true # adds a vertical scroll bar if there are more than 3 news items # limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts: false # enabled: true # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items # limit: 3 # leave blank to include all the blog posts
+announcements: false # enabled: scrollable: limit:
+latest_posts: false # enabled: scrollable: limit: 
 ---
 
 Alex studies atmospheric boundary layer processes and turbulence primarily using computational methods such as machine learning and simulation. He is currently focusing on applications of machine learning to the stably stratified atmospheric boundary layer. Other problems that Alex has recently investigated include topographic effects on wind flow and generation of turbulence at the inflow boundary of fluid dynamics simulations.
