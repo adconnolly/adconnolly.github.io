@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - adconnolly
+  - m2lines
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - adconnolly/SlopeFlow
+  - adconnolly/SFSstressDNN
+  - adconnolly/microHH
+  - m2lines/L96_demo
